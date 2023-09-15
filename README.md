@@ -1,3 +1,6 @@
+My solution and writeup is located in the solution directory. 
+
+
 # Capture The Flag Challenge for eBPF Summit 2023
 
 Welcome to the eBPF Summit 2023 CTF Challenge!
