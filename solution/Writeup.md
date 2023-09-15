@@ -127,7 +127,7 @@ I then tried to use some tools to investigate more about process 3197. I tried u
 tks@lima-hard:~$ sudo ps -p 3197
     PID TTY          TIME CMD
 tks@lima-hard:~$ sudo top | grep 3197
-tks@lima-hard:~$ sudo ls /proc/ | grep "3197"
+tks@lima-hard:~$ sudo ls -la /proc/ | grep "3197"
 tks@lima-hard:~$
 ```
 
