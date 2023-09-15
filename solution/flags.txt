@@ -1,0 +1,6 @@
+easy: GJ4xMFOoEHSGJI5XFFq7MFO8LKZtnJ9trJ46pvOeMKWhMJjtMz4lVSfkAQRmAP9kZmZ8Zwxtp7Iwo70xp65X
+hard: GJ4xMFOoFRSFES5XFFq7MFO8LKZtnJ9trJ46pvOeMKWhMJjtMz4lVSfkAGVhAQt9ZGD7VUAyL74hMUAqPt==
+
+decoded flags (rots18 + base64) strings /tmp/ebpf.summit.2023 | grep "main.rot13rot5"
+easy (decoded): Mode [EASY] I've was in your kernel for [14134.133729 seconds]
+hard (decoded): Mode [HARD] I've was in your kernel for [152.488146 seconds]
